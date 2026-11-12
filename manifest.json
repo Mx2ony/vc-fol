@@ -1,0 +1,14 @@
+{
+  "name": "Voice Follow",
+  "description": "يتابع شخص معين في الرومات الصوتية ويسحبك وراه",
+  "authors": [
+    {
+      "name": "Khalid",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_voice"
+  }
+}
